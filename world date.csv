@@ -1,0 +1,21 @@
+Country,Continent,Population_Millions,GDP_Billion_USD,Area_Sq_Km,Life_Expectancy
+China,Asia,1409,17700,9596961,78
+India,Asia,1428,3730,3287263,70
+United States,North America,335,27700,9833517,79
+Indonesia,Asia,279,1370,1904569,72
+Pakistan,Asia,240,375,881913,67
+Nigeria,Africa,227,390,923768,55
+Brazil,South America,216,2170,8515767,75
+Bangladesh,Asia,173,460,148460,73
+Russia,Europe,144,2020,17098242,73
+Mexico,North America,129,1810,1964375,75
+Japan,Asia,124,4110,377975,84
+Ethiopia,Africa,126,155,1104300,65
+Philippines,Asia,117,440,300000,71
+Egypt,Africa,112,400,1002450,71
+Vietnam,Asia,100,430,331212,75
+Germany,Europe,84,4500,357022,81
+United Kingdom,Europe,68,3340,243610,81
+France,Europe,68,3050,551695,83
+Turkey,Asia,86,1150,783562,76
+South Africa,Africa,60,400,1221037,65
